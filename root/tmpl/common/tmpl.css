@@ -1,0 +1,11 @@
+/**
+ * {%= description %}
+ * @pageName {%= pageName %}
+ * @widgetName {%= name %}
+ * @author {%= author_name %}
+ * @date   {%= grunt.template.today('yyyymmdd') %}
+ */
+/*!!cmd:compress=true*/
+/*!!cmd:conv2unicode=true*/
+
+@import url("http://style.c.aliimg.com/app/dsc/css/takla/widget/original/{%= name %}/default/{%= name %}.css");

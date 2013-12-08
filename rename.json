@@ -1,0 +1,6 @@
+{
+    "tmpl/common/tmpl.js": "tmpl/common/{%= name %}.js",
+    "tmpl/original/tmpl.js": "tmpl/original/{%= name %}.js",
+    "tmpl/common/tmpl.css": "tmpl/common/{%= name %}.css",
+    "tmpl/original/tmpl.css": "tmpl/original/{%= name %}.css"
+}
